@@ -9,3 +9,4 @@ then
 echo "finger installed already"
 else
 echo "command not found"
+fi
